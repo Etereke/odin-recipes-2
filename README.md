@@ -1,4 +1,4 @@
-#Odin Recipes
+# Odin Recipes
 
 _I have already done this project way back in 2022, but I abandoned the Odin Project for a long time. After I restarted, I decided I might as well start it from scratch for a refresher._
 
