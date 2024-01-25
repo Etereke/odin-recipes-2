@@ -1,0 +1,43 @@
+body{
+    background-color: lemonchiffon;
+    font-family: "Trebuchet MS", Georgia, sans-serif;
+    color: midnightblue;
+}
+
+h1, h3 {
+    color: darkred;
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.back {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.list.main li {
+    list-style-type: none;
+    font-size: 25px;
+}
+
+.list.main li a {
+    text-decoration: none;
+    color: purple;
+
+}
+
+.description {
+    font-style: italic;
+}
+
+.list.recipe li {
+    list-style-type: square;
+}
+
+ol li {
+    list-style-type: upper-roman;
+}
